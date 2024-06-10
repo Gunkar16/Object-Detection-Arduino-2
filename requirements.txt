@@ -1,0 +1,7 @@
+pygame
+opencv-python-headless
+gtts
+playsound==1.2.2
+pyserial
+torch
+ultralytics
